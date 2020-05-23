@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Quarantine</title>
+ <link href="http://localhost:4000/podcast/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/podcast/"/>
+ <updated>2020-05-23T13:50:32+05:30</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Mark Otto</name>
+   <email>markdotto@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Episode 3 - Topic</title>
+   <link href="http://localhost:4000/2020/05/23/episode3-noname/"/>
+   <updated>2020-05-23T00:00:00+05:30</updated>
+   <id>http://localhost:4000/podcast/2020/05/23/episode3-noname</id>
+   <content type="html">&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+
+&lt;figure class=&quot;wp-block-embed-wordpress wp-block-embed is-type-rich is-provider-spotify&quot;&gt;
+    &lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
+      &lt;iframe title=&quot;Spotify Embed: Ep3: Building for Space ft. Transcelestial&amp;#039;s Rohit Jha &quot; width=&quot;100%&quot; height=&quot;232&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot; allow=&quot;encrypted-media&quot; src=&quot;https://open.spotify.com/embed-podcast/episode/1TbZcIMwDHjbyuK48grHZU&quot;&gt;
+      &lt;/iframe&gt;
+    &lt;/div&gt;
+ &lt;/figure&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Episode 2 - Aman Randi Hai</title>
+   <link href="http://localhost:4000/2020/05/23/episode2-aman-randi/"/>
+   <updated>2020-05-23T00:00:00+05:30</updated>
+   <id>http://localhost:4000/podcast/2020/05/23/episode2-aman-randi</id>
+   <content type="html">&lt;p&gt;Aman randi hai Aman randi hai. Aman randi hai. Aman randi hai. Aman randi hai
+Aman randi hai Aman randi hai Aman randi hai Aman randi hai Aman randi hai
+Aman randi hai Aman randi hai Aman randi hai Aman randi hai Aman randi hai 
+Aman randi hai Aman randi hai Aman randi hai Aman randi hai Aman randi hai&lt;/p&gt;
+
+&lt;p&gt;Aman randi hai Aman randi hai Aman randi hai Aman randi hai Aman randi hai
+Aman randi hai Aman randi hai KNAWLEDGE Aman randi hai Aman randi hai Aman randi hai Aman randi hai Aman randi hai Aman randi hai Aman randi hai Aman randi hai Aman randi hai&lt;/p&gt;
+
+&lt;figure class=&quot;wp-block-embed-wordpress wp-block-embed is-type-rich is-provider-spotify&quot;&gt;
+    &lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
+      &lt;iframe width=&quot;100%&quot; height=&quot;232&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot; allow=&quot;encrypted-media&quot; src=&quot;https://open.spotify.com/embed-podcast/episode/35iOWD9irriM38iUR7kHUb&quot;&gt;
+      &lt;/iframe&gt;
+    &lt;/div&gt;
+ &lt;/figure&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Episode 1 - Liftoff</title>
+   <link href="http://localhost:4000/2020/05/22/episode1-liftoff/"/>
+   <updated>2020-05-22T00:00:00+05:30</updated>
+   <id>http://localhost:4000/podcast/2020/05/22/episode1-liftoff</id>
+   <content type="html">&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+
+&lt;figure class=&quot;wp-block-embed-wordpress wp-block-embed is-type-rich is-provider-spotify&quot;&gt;
+    &lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
+      &lt;iframe title=&quot;Spotify Embed: Ep3: Building for Space ft. Transcelestial&amp;#039;s Rohit Jha &quot; width=&quot;100%&quot; height=&quot;232&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot; allow=&quot;encrypted-media&quot; src=&quot;https://open.spotify.com/embed-podcast/episode/1TbZcIMwDHjbyuK48grHZU&quot;&gt;
+      &lt;/iframe&gt;
+    &lt;/div&gt;
+ &lt;/figure&gt;
+</content>
+ </entry>
+ 
+
+</feed>
